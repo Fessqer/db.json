@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Beverages",
+      "seoUrl": "beverages"
+    },
+    {
+      "id": 2,
+      "categoryName": "Games",
+      "seoUrl": "games"
+    },
+    {
+      "id": 3,
+      "categoryName": "Book",
+      "seoUrl": "book"
+    },
+    {
+      "id": 4,
+      "categoryName": "News",
+      "seoUrl": "news"
+    },
+    {
+      "id": 5,
+      "categoryName": "Social",
+      "seoUrl": "social"
+    }
+    ],
+
+    "products": [
+      {
+        "id": 1,
+        "categoryId": 1,
+        "productName": "Demir Premium",
+        "productUnit": "Banlı Çıkabilir / Garantili / Skin, Şifre, E-Posta Değişmez.",
+        "unitstock":10,
+        "price":5
+      },
+      {
+        "id": 2,
+        "categoryId": 2,
+        "productName": "Altın Premium",
+        "productUnit": "Banlı Çıkabilir / Garantili / Skin, Şifre, E-Posta Değişmez.",
+        "unitstock":10,
+        "price":15
+      },
+      {
+        "id": 3,
+        "categoryId": 3,
+        "productName": "Elmas Premium",
+        "productUnit": "Banlı Çıkabilir / Garantili / Skin, Şifre, E-Posta Değişmez.",
+        "unitstock":10,
+        "price":25
+      }
+      ]
+
+  }
